@@ -1,0 +1,11 @@
+{
+    "name": "wintermute-rekt",
+    "version": "2.0.0",
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "@noble/secp256k1": "1.7.0",
+        "ethers": "5.7.0",
+        "dotenv": "^16.0.3"
+    }
+}
