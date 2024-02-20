@@ -11,6 +11,13 @@
 
 A Foundry-based portfolio for Solidity smart contracts.
 
+## What's Inside
+
+CTF from [Nodeguardians](https://nodeguardians.io/):
+* cream-rekt: [`src/nodeguardians/cream-rekt`](src/nodeguardians/cream-rekt/README.md)
+* poly-rekt: [`src/nodeguardians/poly-rekt`](src/nodeguardians/poly-rekt/README.md)
+* wintermute-rekt: [`src/nodeguardians/wintermute-rekt`](src/nodeguardians/wintermute-rekt/README.md)
+
 ## Getting Started
 
 ### Install dependencies
@@ -21,13 +28,6 @@ If this is your first time with Foundry, check out the
 ```sh
 $ pnpm install # install Solhint, Prettier, and other Node.js deps
 ```
-
-## What's Inside
-
-CTF from [Nodeguardians](https://nodeguardians.io/):
-* cream-rekt: [`src/nodeguardians/cream-rekt`](src/nodeguardians/cream-rekt/README.md)
-* poly-rekt: [`src/nodeguardians/poly-rekt`](src/nodeguardians/poly-rekt/README.md)
-* wintermute-rekt: [`src/nodeguardians/wintermute-rekt`](src/nodeguardians/wintermute-rekt/README.md)
 
 ## Related Efforts
 
